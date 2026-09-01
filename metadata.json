@@ -1,0 +1,7 @@
+{
+  "name": "ShopIQ",
+  "description": "AI-powered business management, inventory control, credit ledger, and decision-support platform for local shop owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
